@@ -1,0 +1,4 @@
+/.idea/
+/digit-recognizer/data/
+/digit-recognizer/checkpoints/
+/digit-recognizer/.ipynb_checkpoints/
